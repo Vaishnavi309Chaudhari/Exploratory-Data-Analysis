@@ -1,1 +1,2 @@
-# Exploratory-Data-Analysis
+# Exploratory Data Analysis on Olympics Dataset
+# This analysis delves into the comprehensive dataset of the Olympic Games, covering events up to the year 2012. The objective is to extract significant statistical insights shedding light on various dimensions of the Olympics. This includes examination of participating nations, athletes, sporting disciplines, and medal distributions. By conducting a meticulous review of the data encompassing both the Summer and Winter Games, the aim is to provide a holistic understanding of this global sporting phenomenon.
